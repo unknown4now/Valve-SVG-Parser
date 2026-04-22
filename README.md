@@ -9,3 +9,7 @@ The extractor parses the binary buffer to find the `svg_data`. It then cleans th
 1.  Launch the tool.
 2.  Click **ADD FILES** to select your `.vsvg_c` assets.
 3.  Click **CONVERT ALL** to generate normalized `.svg` files.
+
+<p align="center">
+  <img src="assets/preview.jpg" width="600" alt="Valve SVG Extractor Preview">
+</p>
